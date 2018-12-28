@@ -67,7 +67,7 @@ function banner1()
 function banner2()
 {
     $banner  = "============ Code by ============\n";
-    $banner2 = "======= NTHANFP | AXEC0DE =======\n\n";
+    $banner2 = "==== I Gusti Bagus Sudarsana ====\n\n";
 
     return $banner."".$banner2;
 }
