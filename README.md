@@ -2,6 +2,6 @@
 Instagram bot using php
 
 ```sh
-git clone https://github.com/nthanfp/igbot && cd igbot
+git clone https://github.com/bagussudarsana/project_igtools && cd igbot
 bash run.sh
 ```
