@@ -9,7 +9,7 @@ ____ _  _ ____ _  _     _  _ ____
 sleep 1
 echo "==== Instagram Tools Ver 1.2 ====";
 echo "============ Code by ============";
-echo -e "======= NTHANFP | AXEC0DE =======\e[0m";
+echo -e "==== I Gusti Bagus Sudarsana ====\e[0m";
 sleep 1
 echo ""
 echo -e "\e[1;35m[!] Select tools by number : "
